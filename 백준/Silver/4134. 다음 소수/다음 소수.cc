@@ -24,6 +24,6 @@ int main() {
   long long a;
   while(n--){
     cin >> a;
-    cout<<pn_(a)<<endl;
+    cout<<pn_(a)<<'\n';
   }
 }
