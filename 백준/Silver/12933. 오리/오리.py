@@ -1,46 +1,27 @@
 quack = list(input())
+index = ['q','u','a','c','k']
 count = []
 f = 0
 for i in range(len(quack)):
-  if quack[i] == 'q':
+  sound = quack[i]
+  s_i = index.index(sound)
+  if s_i == 0:
     if 4 in count:
       count[count.index(4)] = 0
     else:
       count.append(0)
-  elif quack[i] == 'u':
-    if 0 in count:
-      count[count.index(0)]+=1
-    else:
-      f = -1
-      break
-  elif quack[i] == 'a':
-    if 1 in count:
-      count[count.index(1)]+=1
-    else:
-      f = -1
-      break
-  elif quack[i] == 'c':
-    if 2 in count:
-      count[count.index(2)]+=1
-    else:
-      f = -1
-      break
-  elif quack[i] == 'k':
-    if 3 in count:
-      count[count.index(3)]+=1
-    else:
-      f = -1
-      break
   else:
-    f = -1
-    break
+    if (s_i-1) in count:
+      count[count.index(s_i-1)] += 1
+    else:
+      f = -1
+      break
 
 for i in count:
   if i != 4:
     f = -1
     break
-    
-if f!=-1:
-  print(len(count))
-else:
+if f==-1:
   print(-1)
+else:
+  print(len(count))
