@@ -1,45 +1,27 @@
 #include <iostream>
 #include <stack>
-#include <queue>
 #include <algorithm>
-#include <numeric>
-#include <cmath>
-#include <string>
-#include <utility>
 using namespace std;
 
-
-int arr[1000001];
 int main(){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     int n; cin>>n;
+    int seq[1000000];
+    int nge[1000000]; fill_n(nge,1000000,-1);
     stack<int> s;
     for(int i=0; i<n; i++){
-        int m; cin>>m;
-        arr[i]=m;
-        while(true){
-            if(s.empty()){
-                s.push(i);
-                break;
-            }
-            int inx = s.top();
-            if(m>arr[inx]){
-                arr[inx] = m;
-                s.pop();
-            }else{
-                s.push(i);
-                break;
-            }
-        }
+        cin>>seq[i];
     }
-    while(!s.empty()){
-        int i=s.top();
-        arr[i] = -1;
-        s.pop();
+    for(int i=n-1; i>=0; i--){
+        while(!s.empty() && s.top()<=seq[i])
+            s.pop();
+        if(!s.empty()) 
+            nge[i]=s.top();
+        s.push(seq[i]);
     }
-    for(int j=0; j<n; j++){
-        cout<<arr[j]<<' ';
+    for(int i=0; i<n; i++){
+        cout << nge[i] <<' ';
     }
-    
+
 }
