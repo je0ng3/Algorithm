@@ -1,10 +1,9 @@
 def solution(arr):
-    answer = []
-    index = 0
-    for i in arr:
-        if index>0 and answer[index-1]==i:
-            continue
-        else:
-            answer.append(i)
-            index+=1
-    return answer
+    dq = []
+    last = arr[0]
+    dq.append(last)
+    for i in arr[1:]:
+        if last!=i:
+            dq.append(i)
+            last = i
+    return dq
