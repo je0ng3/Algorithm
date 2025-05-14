@@ -1,6 +1,6 @@
 def solution(progresses, speeds):
     left = [
-        (100 - i) // j + (1 if (100 - i) % j != 0 else 0)
+        -((i-100) // j )
         for i, j in zip(progresses, speeds)
     ]
     temp = [0]
