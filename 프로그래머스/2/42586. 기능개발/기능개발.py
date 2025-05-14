@@ -1,25 +1,14 @@
 def solution(progresses, speeds):
+    left = [
+        (100 - i) // j + (1 if (100 - i) % j != 0 else 0)
+        for i, j in zip(progresses, speeds)
+    ]
+    temp = [0]
     answer = []
-    count = len(progresses)
-    duration = []
-    for i in range(count):
-        if (100-progresses[i])%speeds[i]==0 :
-            duration.append((100-progresses[i])//speeds[i])
+    for i in left:
+        if i > temp[-1]:
+            temp.append(i)
+            answer.append(1)
         else:
-            duration.append((100-progresses[i])//speeds[i] + 1)
-    dev = 1
-    _pass = 1
-    prod = duration[0]
-    for i in range(1,count):
-        if _pass:
-            duration = list(map(lambda x:x-prod, duration))
-        if duration[i]<=0:
-            dev+=1
-            _pass = 0
-        else:
-            answer.append(dev)
-            prod = duration[i]
-            dev = 1
-            _pass = 1
-    answer.append(dev)
+            answer[-1]+=1
     return answer
