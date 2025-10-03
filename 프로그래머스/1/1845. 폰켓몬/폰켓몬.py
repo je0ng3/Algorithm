@@ -1,8 +1,6 @@
 def solution(nums):
-    total = len(nums)
-    nums = set(nums)
-    if total/2 <= len(nums):
-        answer = total/2
-    else:
-        answer = len(nums)
-    return answer
+    types = len(set(nums))
+    allowed = len(nums)/2
+    if types>allowed:
+        return allowed
+    return types
