@@ -1,35 +1,37 @@
-## 누적 주차 시간에 따라 요금을 일괄로 정산..!!
+def make_m(time):
+    h, m = time.split(":")
+    return int(h)*60+int(m)
 
 def solution(fees, records):
-    car_in = {}
-    result = {}
+    parking = {}
+    total = {}
     for record in records:
-        time, car, in_out = record.split(' ')
-        if in_out == "IN":
-            car_in[car] = time2minute(time)
-            if car not in result:
-                result[car] = 0
-        else: 
-            result[car] += time2minute(time) - car_in[car]
-            del car_in[car]
+        time, car_num, in_out = record.split()
+        if in_out=='IN':
+            parking[car_num] = make_m(time)
+        else: # OUT
+            total[car_num] = total.get(car_num, 0) + make_m(time)-parking.pop(car_num)
     
-    for car, time in car_in.items():
-        result[car] += time2minute("23:59") - car_in[car]
-    
-    return [rate(result[car],fees) for car in sorted(result.keys())]
+    END = make_m("23:59")
+    for car_num, time in parking.items():
+        total[car_num] = total.get(car_num, 0)+END-time
+            
+    answer = []
+    for _, time in sorted(total.items()):
+        fee = fees[1]
+        time-=fees[0]
+        if time>0:
+            fee += (time+fees[2]-1)//fees[2]*fees[3]
+        answer.append(fee)
+    return answer
 
-# 시각 -> 분
-def time2minute(time):
-    h,m = map(int, time.split(':'))
-    return h*60+m
 
-# 시간에 따른 가격
-def rate(minute, fees):
-    base_time, base_fee, unit_time, unit_fee = fees
-    if minute<=base_time:
-        return base_fee
-    over = minute-base_time
-    over_fee = over//unit_time*unit_fee
-    if over%unit_time>0:
-        over_fee += unit_fee
-    return base_fee + over_fee
+# fees: 기본시간(분) 기본요금(원) 단위시간(분) 단위요금(원)
+# record: 시각(시:분) 차량번호 내역(IN/OUT)
+
+# 출차된 내역이 없으면 23:59에 출차된 것
+# 초과 시간은 올림하여 청구
+# 차량 번호가 작은 자동차 순으로 주차 요금 리턴
+
+# 하루동안의 기록만 존재, 모두 당일 출차함
+# 같은 차량번호 없음
