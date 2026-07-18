@@ -19,4 +19,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/je0ng3/Algorithm/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/je0ng3/Algorithm/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
