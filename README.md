@@ -45,6 +45,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/je0ng3/Algorithm/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
+| [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
 ## Design
 |  |
 | ------- |
