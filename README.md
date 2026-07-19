@@ -19,6 +19,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -66,4 +69,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
