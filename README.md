@@ -15,6 +15,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0015-3sum](https://github.com/je0ng3/Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0238-product-of-array-except-self](https://github.com/je0ng3/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/je0ng3/Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
@@ -56,6 +58,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
@@ -75,6 +78,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0015-3sum](https://github.com/je0ng3/Algorithm/tree/master/0015-3sum) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -219,5 +223,6 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
