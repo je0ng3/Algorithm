@@ -1,24 +1,14 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        graph = collections.defaultdict(list)
-        for u, v, w in flights:
-            graph[u].append((v,w))
+        INF = float('inf')
+        dist = [INF]*n
+        dist[src]=0
 
-        heap = [(0, src, k)]
-        visited = {}
-
-        while heap:
-            price, node, stop = heapq.heappop(heap)
-            if node==dst:
-                return price
-                
-            if (node, stop) in visited:
-                continue
-            visited[(node, stop)] = price
-
-            if stop>=0:
-                for v, w in graph[node]:
-                    nxt_price = price+w
-                    heapq.heappush(heap, (nxt_price, v, stop-1))
+        for _ in range(k+1):
+            nxt = dist[:]
+            for u, v, w in flights:
+                if dist[u]!=INF:
+                    nxt[v] = min(nxt[v], dist[u]+w)
+            dist = nxt
         
-        return -1
+        return -1 if dist[dst]==INF else dist[dst]
