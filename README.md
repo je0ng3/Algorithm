@@ -34,6 +34,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0001-two-sum](https://github.com/je0ng3/Algorithm/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/je0ng3/Algorithm/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/je0ng3/Algorithm/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/je0ng3/Algorithm/tree/master/0046-permutations) |
@@ -217,5 +218,6 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
