@@ -123,6 +123,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -137,11 +138,13 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/je0ng3/Algorithm/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/je0ng3/Algorithm/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -167,6 +170,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0207-course-schedule](https://github.com/je0ng3/Algorithm/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -175,4 +179,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/je0ng3/Algorithm/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
