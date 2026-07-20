@@ -94,6 +94,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
@@ -102,6 +103,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/je0ng3/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/je0ng3/Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/je0ng3/Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
 ## Queue
@@ -141,6 +143,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/je0ng3/Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
@@ -152,6 +155,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/je0ng3/Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/je0ng3/Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -200,11 +204,13 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
