@@ -46,6 +46,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/je0ng3/Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/je0ng3/Algorithm/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -213,4 +214,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
