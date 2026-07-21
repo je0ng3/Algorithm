@@ -69,6 +69,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
@@ -92,6 +93,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/je0ng3/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +122,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0125-valid-palindrome](https://github.com/je0ng3/Algorithm/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
