@@ -48,6 +48,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0078-subsets](https://github.com/je0ng3/Algorithm/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/je0ng3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/je0ng3/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/je0ng3/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/je0ng3/Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -89,6 +90,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0015-3sum](https://github.com/je0ng3/Algorithm/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/je0ng3/Algorithm/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/je0ng3/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +99,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -115,6 +118,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/je0ng3/Algorithm/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
