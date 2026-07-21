@@ -64,6 +64,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/je0ng3/Algorithm/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +162,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0215-kth-largest-element-in-an-array](https://github.com/je0ng3/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/je0ng3/Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,6 +172,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/je0ng3/Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -178,6 +182,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/je0ng3/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,4 +281,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
