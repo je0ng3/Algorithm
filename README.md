@@ -53,6 +53,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0078-subsets](https://github.com/je0ng3/Algorithm/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/je0ng3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/je0ng3/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/je0ng3/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/je0ng3/Algorithm/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/je0ng3/Algorithm/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/je0ng3/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/je0ng3/Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/je0ng3/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -234,6 +236,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/je0ng3/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
