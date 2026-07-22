@@ -78,6 +78,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/je0ng3/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +141,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/je0ng3/Algorithm/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
@@ -170,6 +172,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/je0ng3/Algorithm/tree/master/0239-sliding-window-maximum) |
 ## Divide and Conquer
 |  |
