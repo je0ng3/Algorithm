@@ -61,6 +61,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/je0ng3/Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
@@ -104,6 +105,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
 | [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
@@ -299,4 +301,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
