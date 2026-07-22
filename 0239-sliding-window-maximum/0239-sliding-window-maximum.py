@@ -3,15 +3,22 @@ class Solution:
         answer = []
         q = collections.deque()
         for i, num in enumerate(nums):
-            # 윈도우 내의 수 체크. 앞으로 최대값 될 수 없으면 제거 
-            while q and nums[q[-1]]<=num:
-                q.pop()
-            # 윈도우에 현재 값 추가
+            # num보다 작은 수는 num이 포함된 윈도우에서 최대가 될 수 없음
+            while q:
+                idx = q.pop()
+                n = nums[idx]
+                if n>num:
+                    q.append(idx)
+                    break
+
+            # 윈도우에 num 인덱스 추가 
             q.append(i)
-            # 윈도우 크기 벗어나면 현재까지의 최대값 제거
-            if q[0]<=i-k:
-                q.popleft()
-            # 꽉 채워진 윈도우 내에서 최대값 출력
-            if i>=k-1:
+
+            # 윈도우 크기 벗어나면 맨 앞 제거
+            if i>=k and i-q[0]+1>k:
+                 q.popleft()
+            
+            # 윈도우 꽉 채웠을 때, 최대 슬라이싱 윈도우 값 추가
+            if i+1>=k:
                 answer.append(nums[q[0]])
         return answer
