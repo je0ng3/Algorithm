@@ -1,22 +1,22 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         answer = 0
-        maxi = height.index(max(height))
-
-        left_max = 0
-        for i in range(0, maxi):
-            left = height[i]
-            if left>left_max:
-                left_max = left
-            else: 
-                answer += left_max-left
+        max_i = height.index(max(height))
         
-        right_max = 0
-        for i in range(len(height)-1, maxi, -1):
-            right = height[i]
-            if right>right_max:
-                right_max = right
+        # 왼쪽 탐색
+        maxi = 0
+        for h in height[:max_i]:
+            if h>maxi:
+                maxi = h
             else:
-                answer += right_max-right
-        
+                answer += maxi-h
+
+        # 오른쪽 탐색
+        maxi = 0
+        for h in (height[max_i+1:len(height)])[::-1]:
+            if h>maxi:
+                maxi = h
+            else:
+                answer += maxi-h
+
         return answer
