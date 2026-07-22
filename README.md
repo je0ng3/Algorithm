@@ -47,6 +47,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0039-combination-sum](https://github.com/je0ng3/Algorithm/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/je0ng3/Algorithm/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/je0ng3/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/je0ng3/Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/je0ng3/Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/je0ng3/Algorithm/tree/master/0078-subsets) |
@@ -78,6 +79,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/je0ng3/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/je0ng3/Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/je0ng3/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
@@ -102,6 +104,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0015-3sum](https://github.com/je0ng3/Algorithm/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/je0ng3/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/je0ng3/Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/je0ng3/Algorithm/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
@@ -141,6 +144,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/je0ng3/Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/je0ng3/Algorithm/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
