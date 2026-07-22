@@ -63,6 +63,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/je0ng3/Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
@@ -107,6 +109,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
@@ -115,11 +118,13 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 ## Counting Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/je0ng3/Algorithm/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +182,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0239-sliding-window-maximum](https://github.com/je0ng3/Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/je0ng3/Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
