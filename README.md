@@ -57,6 +57,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0128-longest-consecutive-sequence](https://github.com/je0ng3/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/je0ng3/Algorithm/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/je0ng3/Algorithm/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/je0ng3/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/je0ng3/Algorithm/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
@@ -299,6 +300,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/je0ng3/Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/je0ng3/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/je0ng3/Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
