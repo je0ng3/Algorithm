@@ -9,15 +9,16 @@ class Solution:
             if l1.val>l2.val:
                 l1, l2 = l2, l1
             l1.next = self.mergeTwo(l1.next, l2)
-            return l1
         return l1 or l2
 
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if len(lists)==0:
+        if not lists:
             return None
-        if len(lists)==1:
-            return lists[0]
-        l1 = lists[0]
-        for l2 in lists[1:]:
-            l1 = self.mergeTwo(l1, l2)
-        return l1
+        while len(lists)>1:
+            merged = []
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i+1] if i+1<len(lists) else None
+                merged.append(self.mergeTwo(l1, l2))
+            lists = merged
+        return lists[0]
