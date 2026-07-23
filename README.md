@@ -80,6 +80,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0704-binary-search](https://github.com/je0ng3/Algorithm/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/je0ng3/Algorithm/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/je0ng3/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/je0ng3/Algorithm/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/je0ng3/Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/je0ng3/Algorithm/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -257,6 +259,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0200-number-of-islands](https://github.com/je0ng3/Algorithm/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/je0ng3/Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/je0ng3/Algorithm/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
