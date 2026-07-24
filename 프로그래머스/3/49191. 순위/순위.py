@@ -1,28 +1,31 @@
+from collections import defaultdict, deque
+
 def solution(n, results):
-    answer = 0    
-    win = {i:[] for i in range(1, n+1)}
-    lose = {i:[] for i in range(1, n+1)}
+    answer = 0
+    # win[i]: i를 이긴 선수
+    # lose[i]: i에게 진 선수
+    win = defaultdict(list)
+    lose = defaultdict(list)
     for a, b in results:
-        win[a].append(b)
-        lose[b].append(a)
-
-    def dfs(graph, start):
-        stack = [start]
-        visited = [False]*(n+1)
-        visited[start] = True
-        cnt = 0
-
-        while stack:
-            cur = stack.pop()
-            for nxt in graph[cur]:
-                if not visited[nxt]:
-                    visited[nxt] = True
-                    cnt += 1
-                    stack.append(nxt)
-
-        return cnt 
-
+        win[b].append(a)
+        lose[a].append(b)
     for i in range(1, n+1):
-        if dfs(win, i)+dfs(lose, i)==n-1:
+        know = [False]*n
+        know[i-1] = True
+        q = deque(win[i])
+        while q:
+            who = q.popleft()
+            know[who-1] = True
+            for w in win[who]:
+                if not know[w-1]:
+                    q.append(w)
+        q = deque(lose[i])
+        while q:
+            who = q.popleft()
+            know[who-1]=True
+            for l in lose[who]:
+                if not know[l-1]:
+                    q.append(l)
+        if all(know):
             answer += 1
     return answer
