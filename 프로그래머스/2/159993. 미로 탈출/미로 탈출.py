@@ -1,53 +1,48 @@
-import collections
+from collections import deque
 
 def solution(maps):
-    answer = 0
-    # 최단거리 s -> e
-    def bfs(maps, s, e):
-        m = len(maps)
-        n = len(maps[0])
-        dr = [0,0,1,-1]
-        dc = [1,-1,0,0]
-        q = collections.deque()
-        q.append((s[0], s[1], 0))
+    m, n = len(maps), len(maps[0])
+    dr = [0,0,1,-1]
+    dc = [1,-1,0,0]
+    def bfs(maps, start, end):
+        q = deque([start+[0]])
         visited = [[False]*n for _ in range(m)]
-        visited[s[0]][s[1]] = True
+        visited[start[0]][start[1]]=True
         while q:
-            r, c, t = q.popleft()
-            if [r, c]==e:
-                return t
+            r, c, time = q.popleft()
+            if [r,c]==end:
+                return time 
             for i in range(4):
-                nr, nc = r+dr[i], c+dc[i]
-                if 0<=nr<m and 0<=nc<n \
-                    and maps[nr][nc]!='X' and not visited[nr][nc]:
+                nr, nc = r+dr[i], c+dc[i] 
+                if 0<=nr<m and 0<=nc<n and \
+                    not visited[nr][nc] and maps[nr][nc]!='X':
                     visited[nr][nc]=True
-                    q.append((nr,nc,t+1))
+                    q.append((nr, nc, time+1))
         return -1
     
-    start = exit = lever = []
-    for r, ms in enumerate(maps):
-        for c, m in enumerate(ms):
-            if m=='S':
-                start = [r, c]
-            elif m=='E':
-                exit = [r, c]
-            elif m=='L':
-                lever = [r, c]
-        if start and exit and lever:
-            break
-    if not (start and exit and lever):
+    answer = 0
+    start = lever = exit = []
+    for i in range(m):
+        for j in range(n):
+            if maps[i][j]=='S':
+                start = [i, j]
+            elif maps[i][j]=='L':
+                lever = [i, j]
+            elif maps[i][j]=='E':
+                exit=[i,j]
+    if not (start and lever and exit):
         return -1
+    # S -> L
+    temp = bfs(maps, start, lever)
+    if temp==-1:
+        return -1
+    answer += temp
     
-    # 레버
-    time = bfs(maps, start, lever)
-    if time==-1:
-        return time
-    answer += time
-    
-    # 출구
-    time = bfs(maps, lever, exit)
-    if time==-1:
-        return time
-    answer += time    
+    # L -> E
+    temp = bfs(maps, lever, exit)
+    if temp==-1:
+        return -1
+    answer += temp
     
     return answer
+
