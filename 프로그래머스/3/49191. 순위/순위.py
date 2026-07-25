@@ -1,28 +1,21 @@
-from collections import defaultdict, deque
-
 def solution(n, results):
-    answer = 0
-    
-    win = defaultdict(list) # 날 이긴 선수
-    lose = defaultdict(list) # 내가 이긴 선수
+    graph = [[False]*n for _ in range(n)]
+    for i in range(n):
+        graph[i][i] = True
     for a, b in results:
-        win[b].append(a)
-        lose[a].append(b)
-        
-    def bfs(start, graph):
-        visited = set()
-        q = deque([start])
-        while q:
-            cur = q.popleft()
-            for nxt in graph[cur]:
-                if nxt not in visited:
-                    visited.add(nxt)
-                    q.append(nxt)
-        return visited
-        
-    for i in range(1, n+1):
-        wins = bfs(i, win)
-        loses = bfs(i, lose)
-        if len(wins)+len(loses)+1==n:
-            answer+=1
+        r, c = a-1, b-1
+        graph[r][c] = True
+    for k in range(n):
+        for i in range(n):
+            for j in range(n):
+                if graph[i][k] and graph[k][j]:
+                    graph[i][j] = True
+    answer = 0
+    for i in range(n):
+        count = 0
+        for j in range(n):
+            if graph[i][j] or graph[j][i]:
+                count +=1
+        if count==n:
+            answer += 1
     return answer
