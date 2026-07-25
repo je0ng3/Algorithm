@@ -1,13 +1,16 @@
-from itertools import permutations
-
 def solution(k, dungeons):
     answer = 0
-    for lsts in list(permutations(dungeons)):
-        temp = count = 0
-        for (need, use) in lsts:
-            if temp+need > k:
+    visited = [False]*len(dungeons)
+    def dfs(power, cnt):
+        nonlocal answer
+        answer = max(answer, cnt)
+        for i in range(len(dungeons)):
+            if visited[i]:
                 continue
-            temp += use
-            count += 1
-        answer = max(count, answer)
+            need, use = dungeons[i]
+            if need<=power:
+                visited[i]=True
+                dfs(power-use, cnt+1)
+                visited[i]=False
+    dfs(k, 0)
     return answer
