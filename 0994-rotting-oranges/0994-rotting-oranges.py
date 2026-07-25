@@ -16,13 +16,11 @@ class Solution:
         while q and count:
             for _ in range(len(q)):
                 r, c = q.popleft()
-                visited = [[False]*n for _ in range(m)]
                 for dr, dc in dirs:
                     nr, nc = r+dr, c+dc
-                    if 0<=nr<m and 0<=nc<n and not visited[nr][nc] \
+                    if 0<=nr<m and 0<=nc<n \
                         and grid[nr][nc]==1:
                         q.append((nr, nc))
-                        visited[nr][nc]= True
                         grid[nr][nc] = 2
                         count -=1
             answer += 1
