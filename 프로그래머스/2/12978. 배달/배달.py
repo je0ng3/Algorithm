@@ -1,4 +1,5 @@
-from collections import defaultdict, deque
+from collections import defaultdict
+import heapq
 
 def solution(N, road, K):
     answer = 0
@@ -8,16 +9,14 @@ def solution(N, road, K):
         graph[v].append((u, w))
     dist = [0]+[float('inf')]*N
     dist[1] = 0 # 1번에서 시작
-    q = deque([(1, 0)]) # 마을, 도달시간
-    while q:
-        node, time = q.popleft()
-        if time==K:
-            continue
+    heap = [(0,1)] # 시간, 마을
+    while heap:
+        time, node = heapq.heappop(heap)
         for nxt, t in graph[node]:
             new_time = time+t
             if new_time<=K and new_time<dist[nxt]:
                 dist[nxt] = new_time
-                q.append((nxt, new_time))
+                heapq.heappush(heap, (new_time, nxt))
     for d in dist[1:]:
         if d<=K:
             answer += 1
