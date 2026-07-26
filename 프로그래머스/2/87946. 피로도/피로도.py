@@ -1,16 +1,13 @@
 def solution(k, dungeons):
-    answer = 0
+    answer = -1
     visited = [False]*len(dungeons)
-    def dfs(power, cnt):
+    def dfs(power):
         nonlocal answer
-        answer = max(answer, cnt)
-        for i in range(len(dungeons)):
-            if visited[i]:
-                continue
-            need, use = dungeons[i]
-            if need<=power:
+        answer=max(answer, visited.count(True))
+        for i, (need, use) in enumerate(dungeons):
+            if not visited[i] and need<=power:
                 visited[i]=True
-                dfs(power-use, cnt+1)
+                dfs(power-use)
                 visited[i]=False
-    dfs(k, 0)
+    dfs(k)
     return answer
