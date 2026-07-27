@@ -236,6 +236,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/je0ng3/Algorithm/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/je0ng3/Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -305,6 +306,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/je0ng3/Algorithm/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/je0ng3/Algorithm/tree/master/0687-longest-univalue-path) |
 ## Binary Search
 |  |
 | ------- |
