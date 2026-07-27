@@ -54,6 +54,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0056-merge-intervals](https://github.com/je0ng3/Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/je0ng3/Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/je0ng3/Algorithm/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/je0ng3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/je0ng3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/je0ng3/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/je0ng3/Algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -197,6 +198,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/je0ng3/Algorithm/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/je0ng3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/je0ng3/Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/je0ng3/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -303,6 +305,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/je0ng3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -313,6 +316,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/je0ng3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -359,4 +363,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/je0ng3/Algorithm/tree/master/0406-queue-reconstruction-by-height) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/je0ng3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
