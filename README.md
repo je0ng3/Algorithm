@@ -242,6 +242,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0687-longest-univalue-path](https://github.com/je0ng3/Algorithm/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/je0ng3/Algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/je0ng3/Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/je0ng3/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0543-diameter-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/je0ng3/Algorithm/tree/master/0687-longest-univalue-path) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/je0ng3/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +325,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0543-diameter-of-binary-tree](https://github.com/je0ng3/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/je0ng3/Algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/je0ng3/Algorithm/tree/master/0687-longest-univalue-path) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/je0ng3/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -367,4 +370,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/je0ng3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/je0ng3/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
