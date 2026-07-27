@@ -1,22 +1,22 @@
 def solution(n, costs):
     answer = 0
     costs.sort(key=lambda x:x[2])
-    parent = [ i for i in range(n)]
+    parent = [i for i in range(n+1)]
     
     def find(x):
-        if parent[x] != x:
-            parent[x] = find(parent[x])
+        if parent[x]!=x:
+            parent[x]=find(parent[x])
         return parent[x]
     
     def union(a, b):
-        ra = find(a)
-        rb = find(b)
-        if ra == rb:
+        parent_a = find(a)
+        parent_b = find(b)
+        if parent_a==parent_b: # 순환
             return False
-        parent[rb] = ra
+        parent[parent_b]=parent_a
         return True
-    
-    for a, b, cost in costs:
-        if union(a, b):
-            answer+=cost
+
+    for u, v, w in costs:
+        if union(u, v):
+            answer += w
     return answer
