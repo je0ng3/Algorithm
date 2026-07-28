@@ -1,13 +1,8 @@
-def get(cache, city, cacheSize):
-    if cacheSize and len(cache)==cacheSize:
-        cache = cache[1:]
-    if len(cache)<cacheSize:
-        cache.append(city)
-    return cache
+from collections import deque
 
 def solution(cacheSize, cities):
     answer = 0
-    cache = []
+    cache = deque(maxlen=cacheSize)
     for city in cities:
         city = city.lower()
         if city in cache:
@@ -15,6 +10,6 @@ def solution(cacheSize, cities):
             cache.append(city)
             answer +=1
         else:
-            cache = get(cache, city, cacheSize)
+            cache.append(city)
             answer += 5
     return answer
