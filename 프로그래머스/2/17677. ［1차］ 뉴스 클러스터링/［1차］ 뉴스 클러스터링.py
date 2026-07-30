@@ -1,29 +1,20 @@
-def makeSet(s):
-    ms = set()
-    ml = []
-    s = s.lower()
-    for i in range(len(s) - 1):
-        a = s[i : i + 2]
-        if a.isalpha():
-            ms.add(a)
-            ml.append(a)
-    return ms, ml
+from collections import Counter
 
 def solution(str1, str2):
-    setS1, ls1 = makeSet(str1)
-    setS2, ls2 = makeSet(str2)
-
-    if len(setS1) == 0 and len(setS2) == 0:
-        return 65536
-
-    intersec = setS1.intersection(setS2)
-    uni = setS1.union(setS2)
-
-    countI = 0
-    for i in intersec:
-        countI += min(ls1.count(i), ls2.count(i))
-    countU = 0
-    for i in uni:
-        countU += max(ls1.count(i), ls2.count(i))
-
-    return int(countI / countU * 65536)
+    def make_set(s):
+        s = s.lower()
+        result = []
+        for i in range(len(s)-1):
+            pair = s[i:i+2]
+            if pair.isalpha():
+                result.append(pair)
+        return result
+    
+    count1 = Counter(make_set(str1))
+    count2 = Counter(make_set(str2))
+    
+    intersection = sum((count1&count2).values())
+    union = sum((count1|count2).values())
+    
+    jaccard = 1 if union==0 else intersection/union
+    return int(jaccard*65536)
