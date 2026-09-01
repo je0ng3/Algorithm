@@ -6,12 +6,12 @@ class Solution:
                 right+=1    
             return s[left+1:right]
         
+        if s==s[::-1]:
+            return s
+
         answer = ''
         for i in range(len(s)):
             a = is_palindrom(i, i)
             b = is_palindrom(i, i+1)
-            if len(a)>len(answer):
-                answer = a
-            if len(b)>len(answer):
-                answer = b
+            answer = max(answer, a, b, key=len)
         return answer
