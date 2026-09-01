@@ -14,6 +14,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/je0ng3/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/je0ng3/Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/je0ng3/Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
@@ -105,6 +106,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/je0ng3/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/je0ng3/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/je0ng3/Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/je0ng3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +163,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/je0ng3/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/je0ng3/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/je0ng3/Algorithm/tree/master/0049-group-anagrams) |
@@ -393,4 +396,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0783-minimum-distance-between-bst-nodes](https://github.com/je0ng3/Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/je0ng3/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/je0ng3/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/je0ng3/Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
