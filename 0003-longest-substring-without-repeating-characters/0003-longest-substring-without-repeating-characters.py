@@ -1,10 +1,10 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        answer = left = 0
         used = {}
-        start, maxi = 0, 0
         for i, c in enumerate(s):
-            if c in used:
-                start = max(start,used[c]+1)
-            used[c]=i
-            maxi = max(maxi, i-start+1)
-        return maxi
+            if c in used and used[c]>=left:
+                left = used[c]+1
+            used[c] = i
+            answer = max(answer, i-left+1)
+        return answer
