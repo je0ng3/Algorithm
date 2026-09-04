@@ -5,17 +5,20 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        q = collections.deque()
-
-        if not head:
-            return True
+        fast = slow = head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
         
-        node = head
-        while node is not None:
-            q.append(node.val)
-            node=node.next
+        rev = None
+        while slow:
+            rev = ListNode(slow.val, rev)
+            slow = slow.next
         
-        while len(q)>1:
-            if q.popleft()!=q.pop():
+        left = head
+        while rev:
+            if left.val != rev.val:
                 return False
+            left = left.next
+            rev = rev.next
         return True
