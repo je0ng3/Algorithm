@@ -9,6 +9,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0021-merge-two-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/je0ng3/Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/je0ng3/Algorithm/tree/master/0641-design-circular-deque) |
@@ -40,6 +41,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
