@@ -409,4 +409,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/je0ng3/Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/je0ng3/Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
