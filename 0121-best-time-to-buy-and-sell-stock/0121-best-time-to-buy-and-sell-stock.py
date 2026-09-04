@@ -1,9 +1,10 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        mp = 0
-        mini = max(prices)
-        for i, price in enumerate(prices):
-            mini = min(mini, price)
-            mp = max(mp, price-mini)
-
-        return mp
+        answer = 0
+        mini = prices[0]
+        for price in prices[1:]:
+            if mini<price:
+                answer = max(answer, price-mini)
+            else:
+                mini = price
+        return answer
