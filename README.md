@@ -6,6 +6,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/je0ng3/Algorithm/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -38,6 +39,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/je0ng3/Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
