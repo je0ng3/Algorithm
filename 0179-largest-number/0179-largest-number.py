@@ -1,15 +1,13 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
+        i = 1
         nums = list(map(str, nums))
-        i_sort = []
-        for num in nums:
-            check = 0
-            for i, cur in enumerate(i_sort):
-                if cur+num < num+cur:
-                    i_sort = i_sort[:i]+[num]+i_sort[i:]
-                    check = 1
+        while i<len(nums):
+            for j in range(i):
+                if nums[j]+nums[i]<nums[i]+nums[j]:
+                    tmp = nums[i]
+                    del nums[i]
+                    nums.insert(j, tmp)
                     break
-            if check:
-                continue
-            i_sort.append(num)
-        return str(int(''.join(i_sort)))
+            i+=1
+        return str(int(''.join(nums)))
