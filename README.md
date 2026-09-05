@@ -107,6 +107,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0242-valid-anagram](https://github.com/je0ng3/Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/je0ng3/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/je0ng3/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/je0ng3/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/je0ng3/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/je0ng3/Algorithm/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
@@ -184,6 +185,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0316-remove-duplicate-letters](https://github.com/je0ng3/Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/je0ng3/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/je0ng3/Algorithm/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/je0ng3/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/je0ng3/Algorithm/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/je0ng3/Algorithm/tree/master/0819-most-common-word) |
 ## Design
@@ -210,6 +212,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0003-longest-substring-without-repeating-characters](https://github.com/je0ng3/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/je0ng3/Algorithm/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/je0ng3/Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/je0ng3/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
