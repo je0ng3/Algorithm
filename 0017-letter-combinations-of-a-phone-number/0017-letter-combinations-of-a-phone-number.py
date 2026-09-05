@@ -1,3 +1,5 @@
+from collections import deque
+
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         dic = {
@@ -5,17 +7,10 @@ class Solution:
             '6':'mno','7':'pqrs', '8':'tuv', '9':'wxyz'
         }
 
-        answer = []
-        def dfs(idx, cur):
-            if len(cur)==len(digits):
-                answer.append(cur)
-                return
-            for i in range(idx, len(digits)):
-                for c in dic[digits[i]]:
-                    cur+=c
-                    dfs(i+1, cur)
-                    cur=cur[:-1]
-
-
-        dfs(0, '')
-        return answer
+        q = deque(list(dic[digits[0]]))
+        for digit in digits[1:]:
+            for _ in range(len(q)):
+                tmp = q.popleft()
+                for c in dic[digit]:
+                    q.append(tmp+c)
+        return list(q)
