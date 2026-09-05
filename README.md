@@ -417,4 +417,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/je0ng3/Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/je0ng3/Algorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/je0ng3/Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
