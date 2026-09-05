@@ -425,4 +425,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/je0ng3/Algorithm/tree/master/0075-sort-colors) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/je0ng3/Algorithm/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
